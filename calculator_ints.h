@@ -1,9 +1,6 @@
 #ifndef CALCULATOR_INTS_HEADER
 #define CALCULATOR_INTS_HEADER
-/* 
- * Shunting Yard Algoritam implementation
- * ~Avram Djordjevic
- */
+
 #include <iostream>
 #include <cmath>
 #include <string>
